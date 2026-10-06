@@ -1,6 +1,4 @@
-# Caliper
-
-Practical, mid-circuit post-selection in magic state cultivation.
+# Practical, mid-circuit post-selection in magic state cultivation.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="figures/1-dark.png">
